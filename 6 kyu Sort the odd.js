@@ -50,4 +50,4 @@ function sortArray(array) {
     return arrFinal
   }
   
-  sortArray([5, 3, 2, 8, 1, 4])
+  sortArray([5, 3, 2, 8, 1, 4]) 

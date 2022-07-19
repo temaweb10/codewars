@@ -3,6 +3,9 @@ Note: Only valid inputs will be given. */
 
 /* my response */
 
+const sum = 5 + 12;
+
+
 function booleanToString(b){
     return `${b}`
 }

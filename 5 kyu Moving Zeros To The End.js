@@ -24,7 +24,9 @@ function getIndex(arr){
   }
   
   
-  
+let ar = 1 + 1
+
+ar 
   
   
   
